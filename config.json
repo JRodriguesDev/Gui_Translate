@@ -1,0 +1,11 @@
+[
+    {
+        "Languages": [
+            {"name": "Portugues", "key_ocr": ["pt"], "key_llm": "pt"},
+            {"name": "Japanese", "key_ocr": ["ja"], "key_llm": "ja"},
+            {"name": "English", "key_ocr": ["en"], "key_llm": "en"},
+            {"name": "Chines", "key_ocr": ["ch_sim", "ch_tra"], "key_llm": "ch"}
+        ],
+        "NVIDIA": "False" 
+    }
+]

@@ -1,0 +1,7 @@
+db/temp/capture/*
+db/temp/streaming/*
+db/tokenizers/*
+db/LLMs/*
+db/models/*
+venv
+**/__pycache__

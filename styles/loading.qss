@@ -1,0 +1,26 @@
+#widget {
+    background-color: black;
+}
+
+#log_label{
+    color: #FFF;
+}
+
+#main_progress_bar {
+    background-color: #FFF;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#main_progress_bar::chunk {
+    background-color: #0000FF;
+    border-radius: 5px;
+}
+
+#console_progress_bar {
+    background-color: #FFF;
+}
+
+#console_progress_bar::chunk {
+    background-color: #0000FF;
+}

@@ -1,0 +1,4 @@
+#label {
+    color: #FFF;
+    font-size: 25px;
+}

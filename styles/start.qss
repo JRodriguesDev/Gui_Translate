@@ -1,0 +1,21 @@
+#widget {
+    background-color: black;
+}
+
+#title {
+    font-size: 48px;
+    font-weight: bold;
+    color: blue;
+}
+
+#button {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 25px;
+    min-width: 150px;
+    min-height: 40px;
+}
