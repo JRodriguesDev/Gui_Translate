@@ -10,9 +10,7 @@ O projeto ainda está em desenvolvimento e o código pode conter bugs.
 
 O repositório contém arquivos com propósitos diferentes:
 
--   **Arquivos do Google Colab (.ipynb):** Localizados na pasta `colab/`, esses notebooks foram criados para serem executados diretamente no Google Colab, onde os modelos de IA e os recursos de computação são otimizados. Eles são a base do projeto.
-
--   **Scripts Python (.py):** O arquivo `api_gui_translate.py` é uma versão ajustada para ser hospedada como backend. Embora seja funcional, ele foi adaptado a partir do código do Colab, e podem ser necessários ajustes para rodá-lo em ambientes locais.
+-   **Arquivos do Google Colab (.ipynb):** Localizados na pasta `colab/`, esses notebooks foram criados para serem executados diretamente no Google Colab, onde os modelos de IA de tradução.
 
 ## Como Rodar o Projeto
 
